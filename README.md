@@ -20,7 +20,8 @@ The explosive growth of Artificial Intelligence (AI) has made large-scale cluste
 ├── train_ada.py               # Script for Stage 1: Domain Adaptation Training
 ├── train_gat.py               # Script for Stage 2: GAT Training
 ├── test_gat.py                # Script for Stage 3: Inference & Evaluation
-├── run_pipeline.bat           # One-click execution script for Windows
+├── run_pipeline.bat           # Execution script for Windows
+├── run_pipeline.sh            # Execution script for Linux/Bash
 ├── requirements.txt           # Dependency lock file
 └── README.md                  # Project documentation
 
